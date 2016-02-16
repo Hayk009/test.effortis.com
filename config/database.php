@@ -54,10 +54,10 @@ return [
 
         'mysql' => [
             'driver'    => 'mysql',
-            'host'      => 'my-blog.esy.es',
-            'database'  => 'u125145619_blog',
-            'username'  => 'u125145619_blog',
-            'password'  => 'hayko009',
+            'host'      => 'localhost',
+            'database'  => 'blog',
+            'username'  => 'root',
+            'password'  => 'effortis',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
